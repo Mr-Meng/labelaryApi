@@ -1,0 +1,8 @@
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\bin\Debug\labelaryApi.exe
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\bin\Debug\labelaryApi.pdb
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\obj\Debug\labelaryApi.Main.resources
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\obj\Debug\labelaryApi.Properties.Resources.resources
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\obj\Debug\labelaryApi.csproj.GenerateResource.cache
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\obj\Debug\labelaryApi.csproj.CoreCompileInputs.cache
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\obj\Debug\labelaryApi.exe
+C:\Users\BaiYinSoft\Desktop\labelaryApi\labelaryApi\obj\Debug\labelaryApi.pdb
